@@ -1,4 +1,9 @@
 #intro{
-    border-color:red;
-    border:5px solid green;
+    background-color:green;
+    color: white;
+}
+
+img{
+    height:300px;
+    width:100%;
 }
